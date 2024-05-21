@@ -1,0 +1,198 @@
+main{
+    background-color: #EDEDED;
+}
+
+.home{
+    padding-top: 60px;
+}
+
+.home-content{
+    display: flex;
+}
+
+.Title-container{
+    padding-left: 24px;
+}
+
+.Title_1{
+    width: 416px;
+    height: 104px;
+    background-color: #dddddd;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+}
+
+.Title_2{
+    width: 416px;
+    height: 104px;
+    margin-top: 16px;
+    background-color: #dddddd;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+}
+
+.text-1{
+    padding-left: 24px;
+    font-family:"Fira Sans";
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.image_1{
+    padding-left: 16px;
+}
+
+.poster{
+    padding-top: 184px;
+}
+
+.text-line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.text-poster{
+    font-family: Garamond;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.calendar{
+    width: 260px;
+    font-family: Garamond;
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.poster-conteiner{
+    padding-top: 100px;
+}
+
+.poster-template{
+    height: 304px;
+    background-color: #dddddd;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.super-date{
+    width: 139px;
+    height: 119px;
+    color: #4e4e4e;
+    text-align: center;
+    padding-left: 60px;
+}
+
+.number{
+    font-family: Garamond;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.month{
+    font-family: Garamond;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.image_2{
+    padding-left: 62px;
+}
+
+.info{
+    width: 477px;
+    height: 200px;
+    padding-left: 62px;
+}
+
+.info-title{
+    font-family: Garamond;
+    font-weight: 700;
+    font-size: 32px;
+
+}
+
+.info-description{
+    padding-top: 16px;
+    font-family: "Fira Sans";
+    font-size: 16px;
+    font-weight: 400;
+    color: #4e4e4e;
+}
+
+.info-line{
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.option{
+    color: #4e4e4e;
+    display: flex;
+    align-items: center;
+    width: 120px;
+    justify-content: space-between;
+    padding-right: 30px;
+    font-family: "Fira Sans";
+}
+
+.Buy_Button{
+    padding-left: 62px;
+}
+
+.poster-template_second{
+    height: 304px;
+    background-color: #dddddd;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    
+}
+
+.all-container{
+    margin-top: 136px;
+}
+
+.news-main-title{
+    font-family: Garamond;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.news-bigger-container{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.news-mini-title{
+    font-family: Garamond;
+    font-weight: 700;
+    font-size: 24px;
+    width: 306px;
+    height: 68px;
+    margin-top: 32px;
+}
+
+.news-text{
+    width: 306px;
+    height: 66px;
+    font-family: "Fira Sans";
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    color: #4e4e4e;
+}
+
+.news-mini-container:last-child{
+    margin-left: 24px;
+}

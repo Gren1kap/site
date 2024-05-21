@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'PFGaramondText';
+    src: url('PFGaramondTextBold.eot');
+    src: local('PFGaramondText Bold'), local('PFGaramondTextBold'),
+        url('PFGaramondTextBold.eot?#iefix') format('embedded-opentype'),
+        url('PFGaramondTextBold.woff2') format('woff2'),
+        url('PFGaramondTextBold.woff') format('woff'),
+        url('PFGaramondTextBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+

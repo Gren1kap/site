@@ -1,0 +1,42 @@
+.header{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    background-color: #191919;
+    height: 104px;
+}
+
+.header-row{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 14px;
+}
+
+.header-nav{
+    font-family:"Fira Sans";
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffff;
+}
+
+.header-nav ul{
+    display: flex;
+}
+
+.header-nav li{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.header-nav a{
+    transition: color 0.2s ease;
+}
+
+.header-nav a:hover{
+    color:#dadada
+}
+
+.header-nav li:last-child{
+    margin-right: 0px;
+}
+
+

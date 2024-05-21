@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'PFGaramondText';
+    src: url('PFGaramondTextLight.eot');
+    src: local('PFGaramondText Light'), local('PFGaramondTextLight'),
+        url('PFGaramondTextLight.eot?#iefix') format('embedded-opentype'),
+        url('PFGaramondTextLight.woff2') format('woff2'),
+        url('PFGaramondTextLight.woff') format('woff'),
+        url('PFGaramondTextLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PFGaramondText';
+    src: url('PFGaramondTextItalic.eot');
+    src: local('PFGaramondText Italic'), local('PFGaramondTextItalic'),
+        url('PFGaramondTextItalic.eot?#iefix') format('embedded-opentype'),
+        url('PFGaramondTextItalic.woff2') format('woff2'),
+        url('PFGaramondTextItalic.woff') format('woff'),
+        url('PFGaramondTextItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PFGaramondText';
+    src: url('PFGaramondTextMedium.eot');
+    src: local('PFGaramondText Medium'), local('PFGaramondTextMedium'),
+        url('PFGaramondTextMedium.eot?#iefix') format('embedded-opentype'),
+        url('PFGaramondTextMedium.woff2') format('woff2'),
+        url('PFGaramondTextMedium.woff') format('woff'),
+        url('PFGaramondTextMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PFGaramondText';
+    src: url('PFGaramondTextBold.eot');
+    src: local('PFGaramondText Bold'), local('PFGaramondTextBold'),
+        url('PFGaramondTextBold.eot?#iefix') format('embedded-opentype'),
+        url('PFGaramondTextBold.woff2') format('woff2'),
+        url('PFGaramondTextBold.woff') format('woff'),
+        url('PFGaramondTextBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
